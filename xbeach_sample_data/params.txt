@@ -1,0 +1,22 @@
+wavemodel = nonh
+depfile = bed.dep
+posdwn = -1
+nx = 250
+ny = 0
+alfa = 0
+vardx = 1
+xfile = x.grd
+yfile = y.grd
+xori = 0
+yori = 0
+D50 = 0.000063
+zs0 = -2
+tstop = 86400
+tintg = 1
+instat = jons
+bcfile = jonswap.txt
+rt = 1800
+dtbc = 1
+front = nonh_1d
+outputformat = fortran
+
